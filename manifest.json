@@ -1,0 +1,21 @@
+{
+    "name": "Pomodoro Timer",
+    "short_name": "Pomodoro",
+    "description": "Um temporizador Pomodoro para conseguir gerir o seu tempo de trabalho e descanso",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "purple",
+    "icons": [
+        {
+            "src": "hourglass.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "clock.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
